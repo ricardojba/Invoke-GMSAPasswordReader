@@ -2,7 +2,7 @@
 
 ## The .Net assembly is based on my modified fork GMSAPasswordReader: https://github.com/ricardojba/GMSAPasswordReader.
 
-[PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) style .Net Assembly loader for the GMSAPasswordReader [GMSAPasswordReader](https://github.com/ricardojba/GMSAPasswordReader).
+[PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) style .Net Assembly loader for the [GMSAPasswordReader](https://github.com/ricardojba/GMSAPasswordReader).
 
 Usage:
 
